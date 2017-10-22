@@ -1,0 +1,16 @@
+dummy_choc = [
+    {"name": "Super Choc", "kind": 1},
+    {"name": "Super Choc 2", "kind": 1},
+    {"name": "Super Choc 3", "kind": 0},
+    {"name": "Super Choc 4", "kind": 0},
+    {"name": "Super Choc 5", "kind": 1},
+    {"name": "Super Choc 6", "kind": 1},
+    {"name": "Super Choc 7", "kind": 0},
+    {"name": "Super Choc 8", "kind": 1},
+    {"name": "Super Choc 9", "kind": 1},
+    {"name": "Super Choc 10", "kind": 0},
+    {"name": "Super Choc 11", "kind": 0},
+    {"name": "Super Choc 12", "kind": 0},
+    {"name": "Super Choc 13", "kind": 0},
+    {"name": "Super Choc 14", "kind": 1},
+]

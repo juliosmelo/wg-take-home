@@ -1,0 +1,10 @@
+Hello {{ customer.user.first_name }}!!
+
+Here is your chocholates of month
+{% for choc in chocholates  %}
+    <img src="{{ choc.thumb.url }}" alt="">
+    <p>{{ choc.name }}</p>
+    <p>{{ choc.description }}</p>
+{% endfor %}
+
+<p>ChocoFruit Team</p>

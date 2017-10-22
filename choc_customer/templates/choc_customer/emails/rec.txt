@@ -1,0 +1,9 @@
+Hello {{ customer.user.first_name }}!!\n\n
+
+Here is your chocholates of month\n
+{% for cho in chocholates  %}
+    {{ choc.name }}\n
+    {{ choc.description }}\n
+{% endfor %}
+
+<p>ChocoFruit Team</p>
