@@ -6,6 +6,7 @@ from .fixtures import dummy_choc
 CHOC_KIND_CHOICES = (('0', 'dark'), ('1', 'white'))
 FRUIT_KIND_CHOICES = (('0', 'fresh'), ('1', 'dry'))
 
+
 class Product(models.Model):    
     name = models.CharField(max_length=40)
     tags = models.CharField(max_length=255)
